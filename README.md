@@ -1,3 +1,3 @@
 
 
-<img src="koi/koi.gif" width="541" alt="My GitHub Koi" />
+<img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
